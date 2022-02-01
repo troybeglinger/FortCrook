@@ -119,7 +119,6 @@
   <h2 class="section-heading">What California Freemasons Do</h2>
 
     <div class="container-fluid">
-      <p>Established as Fort Crook Lodge &#35;575 on November 1, 1923, we have since absorbed several other California lodges and become Fort Crook Lodge &#35;250. The histories of our lodges, as researched by Eugene T. Asher, Janet Vaughn, and Robert A. Boyce, are as follows, with edits by Troy C. Beglinger. Full manuscripts are available upon request.</p>
       <div class="accordion" id="lodgeAccordion">
 
   <div class="accordion-item">

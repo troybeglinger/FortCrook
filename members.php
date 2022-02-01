@@ -50,11 +50,11 @@
 
   <div class="accordion-item">
     <h3 class="accordion-header" id="heading-1">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1" aria-expanded="false" aria-controls="collapse-1">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#officer-1" aria-expanded="false" aria-controls="officer-1">
       2022
       </button>
     </h3>
-    <div id="collapse-1" class="accordion-collapse collapse row" aria-labelledby="heading-1" data-bs-parent="#officerAccordian">
+    <div id="officer-1" class="accordion-collapse collapse row" aria-labelledby="heading-1" data-bs-parent="#officerAccordian">
     <div class="col-sm-3 mx-auto">
       <figure class="figure"><br>
       <img src="images/officers-1.jpg" class="figure-img img-fluid img-thumbnail mx-auto" alt="2022 Lodge Officers">
