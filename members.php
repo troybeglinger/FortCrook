@@ -41,6 +41,9 @@
 
     <section class="white-section" id="features">
         <div class="container-fluid">
+            <h3>Announcements</h3>
+            <p>As of February 8th, 2022, WM Crockett has decreed continuing Officer Practices on the Second Degree of Masonry. These will occur every Tuesday at 6:00pm until sufficiently prepared for the upcoming advancements.</p><br>
+    
             <h3>Resources</h3>
             <p>Our private <a href="https://app.element.io/#/room/!JbEDLwFsUEPnlpsXsO:matrix.org" alt="Lodge Chat">Lodge Chat</a> uses end-to-end encryption for secure communication and remote attendance.</p><br>
     
@@ -58,9 +61,9 @@
     <div class="col-sm-3 mx-auto">
       <figure class="figure"><br>
       <img src="images/officers-1.jpg" class="figure-img img-fluid img-thumbnail mx-auto" alt="2022 Lodge Officers">
-      <figcaption class="figure-caption">2022 Lodge Officers (L-R): Cecil Ray; David Mitchell; Ed Bosworth Jr, PM; Mark Stalcup, PM; Jim Crockett, PM; Jack Brown; Richard Blecha; Bob Boyce; Neil Barnett; and Don Smith. <i>(Photo by Troy Beglinger)</i></figcaption>
+      <figcaption class="figure-caption">2022 Lodge Officers (L-R): Cecil Ray; David Mitchell; Ed Bosworth Jr, PM; Mark Stalcup, PM; Jim Crockett, PM; Jack Brown; Richard Blecha; Bob Boyce; Neil Barnett; and Don Smith.</figcaption>
       <img src="images/officers-2.jpg" class="figure-img img-fluid img-thumbnail mx-auto" alt="2022 Installation">
-      <figcaption class="figure-caption">2022 Installation (L-R): Ed Bosworth Jr., PM,Master of Ceremonies; Jim Crockett, PM, Incoming Master; Wor. Mike Murphy, Inspector of 202nd Masonic District, Installing Officer and Installing Chaplain; Mark Stalcup, PM, Outgoing Master. <i>(Photo by Troy Beglinger)</i></figcaption>
+      <figcaption class="figure-caption">2022 Installation (L-R): Ed Bosworth Jr., PM, Master of Ceremonies; Jim Crockett, PM, Incoming Master; Wor. Mike Murphy, Inspector of 202nd Masonic District, Installing Officer and Installing Chaplain; Mark Stalcup, PM, Outgoing Master.</figcaption>
       </figure>
     </div>
 <div class="w-100 d-md-none"></div>
@@ -93,7 +96,11 @@
 
     <div class="container-fluid">
     <h3>Lodge Events</h3>
-    <small>Note: Events marked with a "<i class="fas fa-user-tie"></i>" are dress functions.</small><br><br>
+    <small>Note: A donation optional communal meal for members and their families is provided one hour before every Stated Meeting. Events marked with a "<i class="fas fa-user-tie"></i>" are formal Jacket and Tie functions.</small><br><br>
+    
+    <!--Template for Degree Ceremonies
+    <p>September xx - Degree Ceremony <i class="fas fa-user-tie"></i></p>
+    -->
     
     <div class="accordion" id="eventAccordian">
 
@@ -138,7 +145,6 @@
   <div class="accordion-body col-sm-10 mx-auto">
   <p>March 8 - Stated Meeting</p>
   <p style="margin-left:1.5rem;"><small>Menu: TBA</small></p>
-  <p style="color: #fff;">March xx, 2022 - Degree Ceremony <i class="fas fa-user-tie"></i></p>
   </div>
 </div>
   </div>
@@ -182,7 +188,6 @@
   <div id="collapse-6" class="accordion-collapse collapse row" aria-labelledby="heading-6" data-bs-parent="#eventAccordian">
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
-  <p>June xx - Degree Ceremony <i class="fas fa-user-tie"></i></p>
   <p>June 14 - Stated Meeting</p>
   <p style="margin-left:1.5rem;"><small>Menu: TBA</small></p>
   </div>
@@ -230,7 +235,6 @@
   <div class="accordion-body col-sm-10 mx-auto">
   <p>September 13 - Stated Meeting</p>
   <p style="margin-left:1.5rem;"><small>Menu: TBA</small></p>
-  <p>September xx - Degree Ceremony <i class="fas fa-user-tie"></i></p>
   </div>
 </div>
   </div>
@@ -274,9 +278,8 @@
   <div id="collapse-12" class="accordion-collapse collapse row" aria-labelledby="heading-12" data-bs-parent="#eventAccordian">
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
-  <p>December xx - Installation of Officers <i class="fas fa-user-tie"></i></p>
+  <p>December 13 - Stated Meeting, Installation of Officers <i class="fas fa-user-tie"></i></p>
   <p style="margin-left:1.5rem;"><small>Appointed Positions: Senior Deacon; Junior Deacon; Chaplain; Senior Steward; Junior Steward; Marshall; Tiler; Officers Coach</small></p>
-  <p>December 13 - Stated Meeting</p>
   <p style="margin-left:1.5rem;"><small>Menu: TBA</small></p>
   </div>
 </div>
