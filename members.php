@@ -43,7 +43,22 @@
         <div class="container-fluid">
             <h3>Announcements</h3>
             <p>As of February 8th, 2022, WM Crockett has decreed continuing Officer Practices on the Second Degree of Masonry. These will occur every Tuesday at 6:00pm until sufficiently prepared for the upcoming advancements.</p><br>
-    
+            <h3>In Memoriam</h3>
+
+            <div class="container">
+  <div class="row align-items-start">
+    <div class="col-md-auto">
+    <div class="card">
+              <div class="card-body">
+                <p class="card-text"><strong>Herbert Emerson Leue</strong></br><i>Past Master</i></p>
+                <p><small>Raised: July 11, 1977</small></br><small>Passed: March 30, 2022</small></p>
+              </div>
+            </div>
+    </div>
+  </div>
+</div>
+
+            
             <h3>Resources</h3>
             <p>Our private <a href="https://app.element.io/#/room/!JbEDLwFsUEPnlpsXsO:matrix.org" alt="Lodge Chat">Lodge Chat</a> uses end-to-end encryption for secure communication and remote attendance.</p><br>
     
