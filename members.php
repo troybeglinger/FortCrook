@@ -42,26 +42,12 @@
     <section class="white-section" id="features">
         <div class="container-fluid">
             <h3>Announcements</h3>
-            <p>As of February 8th, 2022, WM Crockett has decreed continuing Officer Practices on the Second Degree of Masonry. These will occur every Tuesday at 6:00pm until sufficiently prepared for the upcoming advancements.</p><br>
-            <h3>In Memoriam</h3>
+            <p>WM Crockett has decreed that Officer Practices for the 1st Degree of Masonry shall be held at 6pm on the following Tuesdays: June 21 and 28, July 5 and 19, 2022.</p><br>
 
-            <div class="container">
-  <div class="row align-items-start">
-    <div class="col-md-auto">
-    <div class="card">
-              <div class="card-body">
-                <p class="card-text"><strong>Herbert Emerson Leue</strong></br><i>Past Master</i></p>
-                <p><small>Raised: July 11, 1977</small></br><small>Passed: March 30, 2022</small></p>
-              </div>
-            </div>
-    </div>
-  </div>
-</div>
-
-            
             <h3>Resources</h3>
             <p>Our private <a href="https://app.element.io/#/room/!JbEDLwFsUEPnlpsXsO:matrix.org" alt="Lodge Chat">Lodge Chat</a> uses end-to-end encryption for secure communication and remote attendance.</p><br>
-    
+            <p>Information about our brothers who have passed may be found in our <a href="memorial.php">memorial section</a>.</p><br>
+ 
             <h3>Lodge Officers</h3>
     
     <div class="accordion" id="officerAccordian">
@@ -129,7 +115,6 @@
     <div class="w-100 d-md-none"></div>
     <div class="accordion-body col-sm-10 mx-auto">
     <p>January 11 - Stated Meeting</p>
-    <p style="margin-left:1.5rem;"><small>Menu: TBA</small></p>
     </div>
   </div>
   </div>
@@ -144,7 +129,6 @@
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
   <p>February 8 - Stated Meeting</p>
-  <p style="margin-left:1.5rem;"><small>Menu: TBA</small></p>
   </div>
 </div>
   </div>
@@ -159,7 +143,6 @@
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
   <p>March 8 - Stated Meeting</p>
-  <p style="margin-left:1.5rem;"><small>Menu: TBA</small></p>
   </div>
 </div>
   </div>
@@ -174,7 +157,6 @@
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
   <p>April 12 - Stated Meeting</p>
-  <p style="margin-left:1.5rem;"><small>Menu: TBA</small></p>
   </div>
 </div>
   </div>
@@ -189,7 +171,6 @@
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
   <p>May 10 - Stated Meeting</p>
-  <p style="margin-left:1.5rem;"><small>Menu: TBA</small></p>
   </div>
 </div>
   </div>
@@ -204,7 +185,8 @@
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
   <p>June 14 - Stated Meeting</p>
-  <p style="margin-left:1.5rem;"><small>Menu: TBA</small></p>
+  <p>June 21 - Officer Practice: 1st Degree</p>
+  <p>June 28 - Officer Practice: 1st Degree</p>
   </div>
 </div>
   </div>
@@ -218,8 +200,9 @@
   <div id="collapse-7" class="accordion-collapse collapse row" aria-labelledby="heading-7" data-bs-parent="#eventAccordian">
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
+  <p>July 5 - Officer Practice: 1st Degree</p>
   <p>July 12 - Stated Meeting</p>
-  <p style="margin-left:1.5rem;"><small>Menu: TBA</small></p>
+  <p>July 19 - Officer Practice: 1st Degree</p>
   </div>
 </div>
   </div>
@@ -234,7 +217,6 @@
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
   <p>August 9 - Stated Meeting</p>
-  <p style="margin-left:1.5rem;"><small>Menu: TBA</small></p>
   </div>
 </div>
   </div>
@@ -249,7 +231,6 @@
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
   <p>September 13 - Stated Meeting</p>
-  <p style="margin-left:1.5rem;"><small>Menu: TBA</small></p>
   </div>
 </div>
   </div>
@@ -264,7 +245,6 @@
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
   <p>October 11 - Stated Meeting</p>
-  <p style="margin-left:1.5rem;"><small>Menu: TBA</small></p>
   </div>
 </div>
   </div>
@@ -295,7 +275,6 @@
   <div class="accordion-body col-sm-10 mx-auto">
   <p>December 13 - Stated Meeting, Installation of Officers <i class="fas fa-user-tie"></i></p>
   <p style="margin-left:1.5rem;"><small>Appointed Positions: Senior Deacon; Junior Deacon; Chaplain; Senior Steward; Junior Steward; Marshall; Tiler; Officers Coach</small></p>
-  <p style="margin-left:1.5rem;"><small>Menu: TBA</small></p>
   </div>
 </div>
   </div>
