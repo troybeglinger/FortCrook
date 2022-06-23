@@ -114,7 +114,7 @@
     <div id="collapse-1" class="accordion-collapse collapse row" aria-labelledby="heading-1" data-bs-parent="#eventAccordian">
     <div class="w-100 d-md-none"></div>
     <div class="accordion-body col-sm-10 mx-auto">
-    <p>January 11 - Stated Meeting</p>
+    <p>January 11 - 6pm Dinner, 7pm Stated Meeting</p>
     </div>
   </div>
   </div>
@@ -128,7 +128,7 @@
   <div id="collapse-2" class="accordion-collapse collapse row" aria-labelledby="heading-2" data-bs-parent="#eventAccordian">
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
-  <p>February 8 - Stated Meeting</p>
+  <p>February 8 - 6pm Dinner, 7pm Stated Meeting</p>
   </div>
 </div>
   </div>
@@ -142,7 +142,7 @@
   <div id="collapse-3" class="accordion-collapse collapse row" aria-labelledby="heading-3" data-bs-parent="#eventAccordian">
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
-  <p>March 8 - Stated Meeting</p>
+  <p>March 8 - 6pm Dinner, 7pm Stated Meeting</p>
   </div>
 </div>
   </div>
@@ -156,7 +156,7 @@
   <div id="collapse-4" class="accordion-collapse collapse row" aria-labelledby="heading-4" data-bs-parent="#eventAccordian">
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
-  <p>April 12 - Stated Meeting</p>
+  <p>April 12 - 6pm Dinner, 7pm Stated Meeting</p>
   </div>
 </div>
   </div>
@@ -170,7 +170,7 @@
   <div id="collapse-5" class="accordion-collapse collapse row" aria-labelledby="heading-5" data-bs-parent="#eventAccordian">
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
-  <p>May 10 - Stated Meeting</p>
+  <p>May 10 - 6pm Dinner, 7pm Stated Meeting</p>
   </div>
 </div>
   </div>
@@ -184,9 +184,9 @@
   <div id="collapse-6" class="accordion-collapse collapse row" aria-labelledby="heading-6" data-bs-parent="#eventAccordian">
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
-  <p>June 14 - Stated Meeting</p>
-  <p>June 21 - Officer Practice: 1st Degree</p>
-  <p>June 28 - Officer Practice: 1st Degree</p>
+  <p>June 14 - 6pm Dinner, 7pm Stated Meeting</p>
+  <p>June 21 - 6pm Officer Practice: 1st Degree</p>
+  <p>June 28 - 6pm Officer Practice: 1st Degree</p>
   </div>
 </div>
   </div>
@@ -200,9 +200,9 @@
   <div id="collapse-7" class="accordion-collapse collapse row" aria-labelledby="heading-7" data-bs-parent="#eventAccordian">
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
-  <p>July 5 - Officer Practice: 1st Degree</p>
-  <p>July 12 - Stated Meeting</p>
-  <p>July 19 - Officer Practice: 1st Degree</p>
+  <p>July 5 - 6pm Officer Practice: 1st Degree</p>
+  <p>July 12 - 6pm Dinner, 7pm Stated Meeting</p>
+  <p>July 19 - 6pm Officer Practice: 1st Degree</p>
   </div>
 </div>
   </div>
@@ -216,7 +216,7 @@
   <div id="collapse-8" class="accordion-collapse collapse row" aria-labelledby="heading-8" data-bs-parent="#eventAccordian">
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
-  <p>August 9 - Stated Meeting</p>
+  <p>August 9 - 6pm Dinner, 7pm Stated Meeting</p>
   </div>
 </div>
   </div>
@@ -230,7 +230,7 @@
   <div id="collapse-9" class="accordion-collapse collapse row" aria-labelledby="heading-9" data-bs-parent="#eventAccordian">
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
-  <p>September 13 - Stated Meeting</p>
+  <p>September 13 - 6pm Dinner, 7pm Stated Meeting</p>
   </div>
 </div>
   </div>
@@ -244,7 +244,7 @@
   <div id="collapse-10" class="accordion-collapse collapse row" aria-labelledby="heading-10" data-bs-parent="#eventAccordian">
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
-  <p>October 11 - Stated Meeting</p>
+  <p>October 11 - 6pm Dinner, 7pm Stated Meeting</p>
   </div>
 </div>
   </div>
@@ -258,7 +258,7 @@
   <div id="collapse-11" class="accordion-collapse collapse row" aria-labelledby="heading-11" data-bs-parent="#eventAccordian">
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
-  <p>November 8 - Stated Meeting, Election of Officers</p>
+  <p>November 8 - 6pm Dinner, 7pm Stated Meeting and Election of Officers</p>
   <p style="margin-left:1.5rem;"><small>Elected Positions: Master; Senior Warden; Junior Warden; Treasurer; Secretary</small></p>
   </div>
 </div>
@@ -273,7 +273,7 @@
   <div id="collapse-12" class="accordion-collapse collapse row" aria-labelledby="heading-12" data-bs-parent="#eventAccordian">
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
-  <p>December 13 - Stated Meeting, Installation of Officers <i class="fas fa-user-tie"></i></p>
+  <p>December 13 - 6pm Dinner, 7pm Stated Meeting and Installation of Officers <i class="fas fa-user-tie"></i></p>
   <p style="margin-left:1.5rem;"><small>Appointed Positions: Senior Deacon; Junior Deacon; Chaplain; Senior Steward; Junior Steward; Marshall; Tiler; Officers Coach</small></p>
   </div>
 </div>
