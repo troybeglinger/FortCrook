@@ -24,7 +24,7 @@
       <div class="row">
 
         <div class="col-lg-6">
-          <h1 class="big-heading">Members Only</h1>
+          <h1 class="big-heading">Members</h1>
         </div>
 
         <div class="col-lg-6">
@@ -42,11 +42,11 @@
     <section class="white-section" id="features">
         <div class="container-fluid">
             <h3>Announcements</h3>
-            <p>WM Crockett has decreed that Officer Practices for the 1st Degree of Masonry shall be held at 6pm on the following Tuesdays: June 21 and 28, July 5 and 19, 2022.</p><br>
+            <p>WM Crockett has decreed that Officer Practices for the 1st Degree of Masonry shall be held at 6pm on the following Tuesdays: June 21st, June 28th, July 5th, and July 19th, 2022.</p><br>
 
             <h3>Resources</h3>
-            <p>Our private <a href="https://app.element.io/#/room/!JbEDLwFsUEPnlpsXsO:matrix.org" alt="Lodge Chat">Lodge Chat</a> uses end-to-end encryption for secure communication and remote attendance.</p><br>
-            <p>Information about our brothers who have passed may be found in our <a href="memorial.php">memorial section</a>.</p><br>
+            <p><a href="https://app.element.io/#/room/!JbEDLwFsUEPnlpsXsO:matrix.org" alt="Lodge Chat">Lodge Chat</a> - A private chat server using end-to-end encryption for secure communication and remote attendance.</p><br>
+            <p><a href="memorial.php">In Memoriam</a> - A list of affiliated Brothers who have passed on.</p><br>
  
             <h3>Lodge Officers</h3>
     
