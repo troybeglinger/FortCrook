@@ -46,7 +46,7 @@
 
             <h3>Resources</h3>
             <p><a href="https://app.element.io/#/room/!JbEDLwFsUEPnlpsXsO:matrix.org" alt="Lodge Chat">Lodge Chat</a> - A private chat server using end-to-end encryption for secure communication and remote attendance.</p><br>
-            <p><a href="memorial.php">In Memoriam</a> - A list of affiliated Brothers who have passed on.</p><br>
+            <p><a href="memorial.php">In Memoriam</a> - A place to remember our affiliated Brothers who have passed on.</p><br>
  
             <h3>Lodge Officers</h3>
     
@@ -97,7 +97,7 @@
 
     <div class="container-fluid">
     <h3>Lodge Events</h3>
-    <small>Note: A donation optional communal meal for members and their families is provided one hour before every Stated Meeting. Events marked with a "<i class="fas fa-user-tie"></i>" are formal Jacket and Tie functions.</small><br><br>
+    <small>Note: A donation optional communal meal for members and their families is provided before every Stated Meeting. Events marked with a "<i class="fas fa-user-tie"></i>" are formal Jacket and Tie functions.</small><br><br>
     
     <!--Template for Degree Ceremonies
     <p>September xx - Degree Ceremony <i class="fas fa-user-tie"></i></p>

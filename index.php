@@ -127,7 +127,7 @@
       For Members
       </button>
     </h2>
-    <div id="collapse-1" class="accordion-collapse collapse row show" aria-labelledby="heading-1" data-bs-parent="#lodgeAccordion">
+    <div id="collapse-1" class="accordion-collapse collapse row show align-items-center" aria-labelledby="heading-1" data-bs-parent="#lodgeAccordion">
     <div class="col-sm-3 mx-auto">
       <figure class="figure"><br>
         <img src="images/men-250x400.jpg" class="figure-img img-fluid img-thumbnail mx-auto" alt="An eldery man in a wheelchair is taken for a stroll by a cheerful volunteer.">
@@ -146,7 +146,7 @@
       For Education
       </button>
     </h2>
-    <div id="collapse-2" class="accordion-collapse collapse row" aria-labelledby="heading-2" data-bs-parent="#lodgeAccordion">
+    <div id="collapse-2" class="accordion-collapse collapse row align-items-center" aria-labelledby="heading-2" data-bs-parent="#lodgeAccordion">
     <div class="col-sm-3 mx-auto">
       <figure class="figure"><br>
       <img src="images/educator-250x400.jpg" class="figure-img img-fluid img-thumbnail mx-auto" alt="A teacher leads his classroom.">
@@ -165,7 +165,7 @@
       For Those In Need
       </button>
     </h2>
-    <div id="collapse-3" class="accordion-collapse collapse row" aria-labelledby="heading-3" data-bs-parent="#lodgeAccordion">
+    <div id="collapse-3" class="accordion-collapse collapse row align-items-center" aria-labelledby="heading-3" data-bs-parent="#lodgeAccordion">
     <div class="col-sm-3 mx-auto">
       <figure class="figure"><br>
         <img src="images/need-250x400.jpg" class="figure-img img-fluid img-thumbnail mx-auto" alt="An eldery man in a wheelchair is taken for a stroll by a cheerful volunteer.">
