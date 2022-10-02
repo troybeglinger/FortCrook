@@ -72,16 +72,17 @@
     </div>
   </div>
 
-  <h2 class="accordion-header" id="heading-9">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-9" aria-expanded="false" aria-controls="collapse-9">
+  <div class="accordion-item">  
+  <h2 class="accordion-header" id="heading-2">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-2" aria-expanded="false" aria-controls="collapse-2">
       Gene E. Sanford, PM (1937-2020)
       </button>
     </h2>
-    <div id="collapse-9" class="accordion-collapse collapse row" aria-labelledby="heading-9" data-bs-parent="#lodgeAccordion">
+    <div id="collapse-2" class="accordion-collapse collapse row" aria-labelledby="heading-2" data-bs-parent="#lodgeAccordion">
     <div class="col-sm-3 mx-auto">
-      <figure class="figure"><br>
-      <img src="images/square-and-compass-white-web.png" class="figure-img img-fluid img-thumbnail mx-auto" alt="Gene E. Sanford, PM" style="background-color: #075299;">
-      <figcaption class="figure-caption">Image Not Available</figcaption>
+    <figure class="figure"><br>
+        <img src="images/square-and-compass-white-web.png" class="figure-img img-fluid img-thumbnail mx-auto" alt="Gene E. Sanford, PM" style="background-color: #075299;">
+        <figcaption class="figure-caption">Image Not Available</figcaption>
       </figure>
     </div>
 <div class="w-100 d-md-none"></div>
