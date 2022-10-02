@@ -42,7 +42,7 @@
     <section class="white-section" id="features">
         <div class="container-fluid">
             <h3>Announcements</h3>
-            <p>WM Crockett has decreed that Officer Practices for the 1st Degree of Masonry shall be held at 6pm on the following Tuesdays: June 21st, June 28th, July 5th, and July 19th, 2022.</p><br>
+            <p>In a historic first, California Grand Lodge officials will be coming to our Lodge October 8th at 9:00 AM for the conerstone ceremony. After a brief ritual, the public will be invited in for refreshments before we adjourn to the hospital.</p><br>
 
             <h3>Resources</h3>
             <p><a href="https://app.element.io/#/room/!JbEDLwFsUEPnlpsXsO:matrix.org" alt="Lodge Chat">Lodge Chat</a> - A private chat server using end-to-end encryption for secure communication and remote attendance.</p><br>
@@ -244,6 +244,7 @@
   <div id="collapse-10" class="accordion-collapse collapse row" aria-labelledby="heading-10" data-bs-parent="#eventAccordian">
   <div class="w-100 d-md-none"></div>
   <div class="accordion-body col-sm-10 mx-auto">
+  <p>October 8 - 9am Cornerstone Ceremony, CA Grand Lodge attending</p>
   <p>October 11 - 6pm Dinner, 7pm Stated Meeting</p>
   </div>
 </div>
