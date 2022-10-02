@@ -80,7 +80,7 @@
     <div id="collapse-9" class="accordion-collapse collapse row" aria-labelledby="heading-9" data-bs-parent="#lodgeAccordion">
     <div class="col-sm-3 mx-auto">
       <figure class="figure"><br>
-      <img src="images/fall-river-1.jpg" class="figure-img img-fluid img-thumbnail mx-auto" alt="Gene E. Sanford, PM">
+      <img src="images/square-and-compass-white-web.png" class="figure-img img-fluid img-thumbnail mx-auto" alt="Gene E. Sanford, PM">
       <figcaption class="figure-caption">Image Not Available</figcaption>
       </figure>
     </div>
