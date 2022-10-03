@@ -80,22 +80,22 @@
     <div id="carouselControls" class="carousel slide" data-bs-ride="carousel">
 
       <div class="carousel-inner">
-        <div class="carousel-item active cs1" data-bs-interval="10000">
+        <div class="carousel-item active cs1" data-bs-interval="10000"><br>
             <h2 class="quotes-text">There are no strangers in Freemasonry, only friends you've yet to meet.</h2>
             <em>Dave Thomas</em>
         </div>
 
-        <div class="carousel-item cs1" data-bs-interval="10000">
+        <div class="carousel-item cs1" data-bs-interval="10000"><br>
         <h2 class="quotes-text">More than an institution, more than a tradition, more than a society, Masonry is one of the forms of Divine life upon earth.</h2>
         <em>Joseph Fort Newton</em>
         </div>
 
-        <div class="carousel-item cs1" data-bs-interval="10000">
+        <div class="carousel-item cs1" data-bs-interval="10000"><br>
         <h2 class="quotes-text">Freemasonry is founded on the immutable laws of Truth and Justice and its grand object is to promote the happiness of the human race.</h2>
         <em>George Washington</em>
         </div>
 
-        <div class="carousel-item cs1" data-bs-interval="10000">
+        <div class="carousel-item cs1" data-bs-interval="10000"><br>
         <h2 class="quotes-text">Masonry affords an opportunity for men of all walks of life to meet on common ground where all men are equal and have one common interest.</h2>
         <em>Theodore Roosevelt</em>
         </div>
