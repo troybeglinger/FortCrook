@@ -87,12 +87,12 @@
     </div>
 <div class="w-100 d-md-none"></div>
     <div class="accordion-body col-sm-8 mx-auto">
-    <p>Offices Held: Worshipful Master</p>
-    <p>Masonic Honors: Anniversary Award (25 Years)</p>
-    <p>Initiated: June 17, 1966 at Fort Crook Lodge &#35;575</p>
-    <p>Passed: August 16, 1966 at Fort Crook Lodge &#35;575</p>
-    <p>Raised: September 17, 1966 at Fort Crook Lodge &#35;575</p>
-    <p>Entered to Rest: December 21, 2020</p>
+    <p><strong>Offices Held:</strong> Worshipful Master</p>
+    <p><strong>Masonic Honors:</strong> Anniversary Award (25 Years)</p>
+    <p><strong>Initiated:</strong> June 17, 1966 at Fort Crook Lodge &#35;575</p>
+    <p><strong>Passed:</strong> August 16, 1966 at Fort Crook Lodge &#35;575</p>
+    <p><strong>Raised:</strong> September 17, 1966 at Fort Crook Lodge &#35;575</p>
+    <p><strong>Entered to Rest:</strong> December 21, 2020</p>
         </div>
     </div>
   </div>
